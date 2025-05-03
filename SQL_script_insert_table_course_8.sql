@@ -1,0 +1,10 @@
+INSERT INTO universityx.course VALUES (1, 'UL711', 'Découverte du génie civil au travers de la réalisation d''une maquette', 12, true, 1, 'A011-A013 (ST)');
+INSERT INTO universityx.course VALUES (2, 'UL712', 'Découverte de la mécanique à travers la maquette virtuelle et réelle', 20, true, 1.5, 'A006 (ST)');
+INSERT INTO universityx.course VALUES (3, 'UL713', 'Découverte de la robotique au service de l''être humain', 40, true, 2, 'A206-A204 (ST)');
+INSERT INTO universityx.course VALUES (4, 'UL105', 'Préparation à l''examen du TOEIC', 20, true, 1, 'Amphi de Mannevile (ST)');
+INSERT INTO universityx.course VALUES (5, 'UL914', 'Langue des Signes', 60, false, 3, 'Amphi 7 (AI)');
+INSERT INTO universityx.course VALUES (6, 'UL818', 'Diversité religieuse et laïcité dans la société française contemporaine', 22, true, 1.5, 'Amphi 1 (AI)');
+INSERT INTO universityx.course VALUES (7, 'UL837', 'Préparation au TOEFL', 24, false, 2, 'Amphi 4 (AI)');
+INSERT INTO universityx.course VALUES (8, 'UL828', 'Le Brésil : culture, histoire et société', 15, true, 1, 'Amphi 5');
+INSERT INTO universityx.course VALUES (9, 'UL719', 'Exprimer pour enseigner', 30, true, 2, 'A216-A214 (AI)');
+INSERT INTO universityx.course VALUES (10, 'UL915', 'Langue des Signe avancée', 60, false, 3, 'Amphi 7(AI)');

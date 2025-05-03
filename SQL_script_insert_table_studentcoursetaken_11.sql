@@ -1,0 +1,13 @@
+INSERT INTO universityx.studentcoursetaken VALUES (1, 'E2101', 1, 'UL719', 14.5, '2006-01-01', '2021-06-10 11:00:00', NULL);
+INSERT INTO universityx.studentcoursetaken VALUES (2, 'E2102', 1, 'UL719', 12.5, '2006-01-01', '2021-06-10 11:00:00', NULL);
+INSERT INTO universityx.studentcoursetaken VALUES (3, 'E2103', 1, 'UL719', 13, '2006-01-01', '2021-06-10 11:00:00', NULL);
+INSERT INTO universityx.studentcoursetaken VALUES (4, 'E2104', 1, 'UL719', 9, '2006-01-01', '2021-06-10 11:00:00', NULL);
+INSERT INTO universityx.studentcoursetaken VALUES (5, 'E2105', 1, 'UL719', 10, '2006-01-01', '2021-06-10 11:00:00', NULL);
+INSERT INTO universityx.studentcoursetaken VALUES (6, 'E2106', 1, 'UL719', 7, '2006-01-01', '2021-06-10 11:00:00', NULL);
+INSERT INTO universityx.studentcoursetaken VALUES (7, 'E2101', 2, 'UL712', 10, '2006-01-01', '2021-06-10 11:00:00', NULL);
+INSERT INTO universityx.studentcoursetaken VALUES (8, 'E2102', 2, 'UL712', 9, '2006-01-01', '2021-06-10 11:00:00', NULL);
+INSERT INTO universityx.studentcoursetaken VALUES (9, 'E2103', 2, 'UL712', 16, '2006-01-01', '2021-06-10 11:00:00', NULL);
+INSERT INTO universityx.studentcoursetaken VALUES (10, 'E2104', 2, 'UL712', 19.5, '2006-01-01', '2021-06-10 11:00:00', NULL);
+INSERT INTO universityx.studentcoursetaken VALUES (11, 'E2105', 2, 'UL712', 14, '2006-01-01', '2021-06-10 11:00:00', NULL);
+INSERT INTO universityx.studentcoursetaken VALUES (12, 'E2106', 2, 'UL712', 11, '2006-01-01', '2021-06-10 11:00:00', NULL);
+INSERT INTO universityx.studentcoursetaken VALUES (13, 'E2107', 3, 'UL712', NULL, '2006-01-01', '2021-06-10 11:00:00', NULL);

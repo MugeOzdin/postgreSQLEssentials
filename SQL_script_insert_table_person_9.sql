@@ -1,0 +1,15 @@
+INSERT INTO universityx.person VALUES (2, 'E2102', true, 'Dialo', 'MAMADOU', '2006-01-01', NULL, 'Villa B5 Avenue de l''OUA', 'dialo.mamadou@universityx.com', 'BAMAKO', '2735', 'ML', 'ML');
+INSERT INTO universityx.person VALUES (3, 'E2103', true, 'Philippe', 'CHARNU', '2003-01-01', NULL, '3 Place de la République', 'philippe.charnu@universityx.com', 'Paris', '75007', 'FR', 'FR');
+INSERT INTO universityx.person VALUES (4, 'E2104', true, 'Mohamed', 'KALI', '2009-01-01', NULL, '5 rue des Chamois', 'mahamed.kali@universityx.com', 'Paris', '75011', 'FR', 'FR');
+INSERT INTO universityx.person VALUES (5, 'E2105', true, 'Emilie', 'CHAPOI', '2000-01-01', NULL, '14 boulevard Denis', 'emilie.chapoi@universityx.com', 'Domont', '95330', 'FR', 'FR');
+INSERT INTO universityx.person VALUES (6, 'E2106', true, 'Sophia', 'INNOCIENTI', '2001-01-01', NULL, '7 rue des Maronniers', 'sophia.innocienti@universityx.com', 'Evry', '91000', 'FR', 'FR');
+INSERT INTO universityx.person VALUES (7, 'E2107', true, 'Monica', 'BELLUCHI', '2002-01-01', NULL, '146 rue des Coquelicots', 'monica.belluchi@universityx.com', 'Paris', '75001', 'FR', 'FR');
+INSERT INTO universityx.person VALUES (8, 'E2108', true, 'Paul', 'MERCIER', '2001-01-01', '(+33)656009977', '477 avenue roman', 'paul.mercier@universityx.com', 'Paris', '75005', 'FR', 'FR');
+INSERT INTO universityx.person VALUES (9, 'P2040', false, 'Marc', 'COLLON', NULL, NULL, NULL, 'marc.collon@universityx.com', NULL, NULL, NULL, NULL);
+INSERT INTO universityx.person VALUES (12, 'P2048', false, 'Ange', 'MICHEL', NULL, NULL, NULL, 'ange.michel@universityx.com', NULL, NULL, NULL, NULL);
+INSERT INTO universityx.person VALUES (13, 'E2019', true, 'Etienne', 'Marchant', '2005-01-04', NULL, '4 villa du chemin vert', 'etienne.marchant@universityx.com', 'Evry', '68300', 'FR', 'FR');
+INSERT INTO universityx.person VALUES (14, 'E2020', true, 'Vincent', 'Kante', '2005-01-01', NULL, '13 rue de montorgueil', 'vincent.kante@universityx.com', 'Paris', '75000', 'FR', 'FR');
+INSERT INTO universityx.person VALUES (15, 'E2021', true, 'Fabien', 'Reccia', '2003-01-01', NULL, '2 rue de maison blanche', 'fabien.reccia@universityx.com', 'Paris', '75000', 'FR', 'FR');
+INSERT INTO universityx.person VALUES (1, 'E2101', true, 'Jean', 'DUPONT', '2004-01-01', '(+33)687899076', '1 rue des Maronniers', 'jean.dupont@universityx.com', 'Paris', '75009', 'FR', 'FR');
+INSERT INTO universityx.person VALUES (10, 'P2044', false, 'Izabelle', 'KALAKA', NULL, NULL, NULL, 'isabelle.kalaka@universityx.com', NULL, NULL, NULL, NULL);
+INSERT INTO universityx.person VALUES (11, 'P2047', false, 'Paul', 'CHAMPON', NULL, NULL, NULL, 'didier.champon@universityx.com', NULL, NULL, NULL, NULL);
